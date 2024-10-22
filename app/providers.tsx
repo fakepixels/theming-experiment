@@ -44,7 +44,7 @@ export function Providers(props: {
           config={{ appearance: { 
             mode: 'auto',
             theme: 'cyberpunk',
-           } }}
+          } }}
         >
           {props.children}
         </OnchainKitProvider>
